@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 19" width="22" height="19">
+	<title>facebook</title>
+	<defs>
+		<image  width="11" height="19" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAATAQMAAAB852WTAAAAAXNSR0IB2cksfwAAAAZQTFRF////////VXz1bAAAAAJ0Uk5TAP9bkSK1AAAAGklEQVR4nGPgf8AgD0cMDHJg9P8BAskxYEUAwY4MtNCVd38AAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="6" y="0"/>
+</svg>
